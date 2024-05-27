@@ -1,0 +1,25 @@
+
+.aula01{
+color:aliceblue
+}
+.centro{
+text-align: center;
+}
+.esquerda{
+text-align: left;
+}
+.direita{
+text-align: right;
+}
+.cor-solida{
+background-color: bisque;
+
+}
+.gradiente{
+    background: linear-gradient(red,black);
+}
+.imagem{
+background-image: url(https://criticalhits.com.br/wp-content/uploads/2023/11/jujutsu-kaisen-mahoraga.jpg);
+background-size: cover;
+background-position: ;
+}
